@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeME</string>
+    <string name="size_progressbar">50dp</string>
+    <string name="previous">Previous</string>
+    <string name="appID">ca-app-pub-3791031540261397~5317794728</string>
+    <string name="Banner_UID">ca-app-pub-3791031540261397/3621569672</string>
+    <string name="Interstitial_UID">ca-app-pub-3791031540261397/6148780224</string>
+</resources>
